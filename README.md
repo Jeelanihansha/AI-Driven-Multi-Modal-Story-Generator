@@ -1,1 +1,5 @@
-# AI-Driven-Multi-Modal-Story-Generator
+# AI-Driven Multi-modal Story Generator
+
+## **Abstract**
+This project introduces an AI-driven multi-modal story generator that integrates image understanding and narrative generation technologies. Utilizing the Google Gemini API, the system interprets visual content, extracting key elements and context from images. This data is transformed into detailed narratives by the OpenAI API, leveraging advanced natural language processing. By combining these powerful APIs, the system enables story generation directly from images, offering a novel approach to storytelling.
+The platform enhances creative expression, providing tools for artists, writers, and educators, while bridging the gap between visual and textual processes. It supports a variety of genres and applications, from entertainment to education and marketing. The system refines contextual accuracy, ensuring immersive and coherent stories, and offers a dynamic, intuitive way for creators to generate content through visual prompts. This innovation has the potential to revolutionize content creation, offering new possibilities in various creative and educational fields.
